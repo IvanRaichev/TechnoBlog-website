@@ -2,7 +2,7 @@
   <img src = "https://i.ibb.co/DgXb30B/logo4V2.png" alt ="Project logo" width = "726">
 </p>
 
-# <a href="https://ivanraichev.github.io/TechnoBlog-website/">One-page site</a> techno blog site with the latest information
+# <a href="https://ivanraichev.github.io/TechnoBlog-website/">One-page site</a> techno blog site
 
 
 - There is adaptive up to 320px
