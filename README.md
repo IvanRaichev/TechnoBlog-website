@@ -14,7 +14,7 @@
 
 - Creation of UX/UI design
 - Style, formatting, and graphical presentation according to design
-- Adding dynamics to the page using JS and jQuery.
+- Adding dynamics to the page using JS and jQuery code.
 
 
 ## Technology
