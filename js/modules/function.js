@@ -19,6 +19,8 @@ export function isWebp() {
 
 }
 
+//rating functional
+
 export function rating() {
 
    const ratings = document.querySelectorAll('.rating')
@@ -83,6 +85,8 @@ export function rating() {
       }
    }
 }
+
+//tabs funtional
 
 export function tabs() {
    const tabsBtn = document.querySelectorAll(".tabs__nav-btn");
