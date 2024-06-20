@@ -1,5 +1,7 @@
 import $ from "jquery";
 
+//spoilers functional
+
 export function Spoilers() {
    $('.spoiler__title').click(function (event) {
       if ($('.spoiler').hasClass('one')) {
